@@ -1,0 +1,66 @@
+bgp:
+    abbr: BGP
+    desc: <x>B</x>order <x>G</x>ateway <x>P</x>rotocol
+    ref: https://en.wikipedia.org/wiki/Border_Gateway_Protocol
+css:
+    abbr: CSS
+    desc: <x>C</x>ascading <x>S</x>tyle <x>S</x>heets
+dhcp:
+    abbr: DHCP
+    desc: <x>D</x>ynamic <x>H</x>ost <x>C</x>onfiguration <x>P</x>rotocol
+    ref: https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol
+dns:
+    abbr: DNS
+    desc: <x>D</x>omain <x>N</x>ame <x>S</x>ystem
+    ref: https://en.wikipedia.org/wiki/Domain_Name_System
+dod:
+    abbr: DoD
+    desc: <acro>us</acro> <x>D</x>epartment <x>o</x>f <x>D</x>efense
+ftp:
+    abbr: FTP
+    desc: <x>F</x>ile <x>T</x>ransfer <x>P</x>rotocol
+    ref: https://en.wikipedia.org/wiki/File_Transfer_Protocol
+html:
+    abbr: HTML
+    desc: <x>H</x>yper<x>T</x>ext <x>M</x>arkup <x>L</x>anguage
+http:
+    abbr: HTTP
+    desc: <x>H</x>yper<x>T</x>ext <x>T</x>ransfer <x>P</x>rotocol
+    ref: https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+https:
+    abbr: HTTPS
+    desc: <x>H</x>yper<x>T</x>ext <x>T</x>ransfer <x>P</x>rotocol <x>S</x>ecure
+    ref: https://en.wikipedia.org/wiki/HTTPS
+ip:
+    abbr: IP
+    desc: <x>I</x>ternet <x>P</x>rotocol
+    ref: https://en.wikipedia.org/wiki/Internet_Protocol
+imap:
+    abbr: IMAP
+    desc: <x>I</x>nternet <x>M</x>essage <x>A</x>ccess <x>P</x>rotocol
+    ref: https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
+oed:
+    abbr: OED
+    desc: <x>O</x>xford <x>E</x>nglish <x>D</x>ictionary
+rsi:
+    abbr: RSI
+    desc: <x>R</x>epetitive <x>S</x>train <x>I</x>njury
+sgml:
+    abbr: SGML
+    desc: <x>S</x>tandard <x>G</x>eneralized <x>M</x>arkup <x>L</x>anguage
+tcp:
+    abbr: TCP
+    desc: <x>T</x>ransmission <x>C</x>ontrol <x>P</x>rotocol
+us:
+    abbr: US
+    desc: <x>U</x>nited <x>S</x>tates of America
+    see: usa
+usa:
+    abbr: USA
+    desc: <x>U</x>nited <x>S</x>tates of <x>A</x>merica
+xml:
+    abbr: XML
+    desc: E<x>x</x>tensible <x>M</x>arkup <x>L</x>anguage
+wmd:
+    abbr: WMD
+    desc: <x>W</x>eapons of <x>M</x>ass <x>D</x>estruction
