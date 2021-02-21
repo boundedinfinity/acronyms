@@ -16,6 +16,12 @@ dns:
 dod:
     abbr: DoD
     desc: <acro>us</acro> <x>D</x>epartment <x>o</x>f <x>D</x>efense
+dslr:
+    abbr: DSLR
+    desc: <x>D</x>igital <x>S</x>ingle-<x>L</x>ens <x>R</x>eflex Camera
+eos:
+    abbr: EOS
+    desc: Canon <x>E</x>lectro-<x>O</x>ptical <x>S</x>ystem
 ftp:
     abbr: FTP
     desc: <x>F</x>ile <x>T</x>ransfer <x>P</x>rotocol
